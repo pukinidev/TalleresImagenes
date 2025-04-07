@@ -1,0 +1,9 @@
+# Ignore image files
+*.jpg
+*.png
+
+# Ignore JSON files
+*.json
+
+# Explicitly ignore kaggle.json
+kaggle.json
